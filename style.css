@@ -1,0 +1,24 @@
+h1{
+
+  text-align: center;
+}
+#infoderecha{
+  float: right;
+  text-align: right;
+}
+h3{
+  clear: right;
+  color: Green;
+}
+img{
+  width: 125px;
+  height: 125px;
+}
+
+span.tiempo{
+  font-weight: bold;
+}
+
+span.lugar{
+  color: Blue;
+}
