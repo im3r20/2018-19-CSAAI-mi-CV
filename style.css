@@ -1,20 +1,40 @@
+#titulo{
+  width: 350px;
+  margin: auto;
+}
 h1{
-
   text-align: center;
+  color:  	#2E8B57;
+  text-align: center;
+  background: #90EE90;
+  padding: 20px;
+  border-radius: 35px 35px 35px 35px;
+  border: 2px solid  	#2E8B57;}
+
 }
 #infoderecha{
-  float: right;
+  float: left;
+  text-align: center;
+}
+span.apartados {
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+color:  	#2E8B57;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+background: #90EE90;
 
-}
-h3{
-  clear: right;
-  color: Green;
-}
+  margin-left: auto;
+  margin-right: auto;
+overflow: hidden;
+padding: 10px;
+border-radius: 35px 35px 35px 35px;
+
+border: 2px solid  	#2E8B57;}
+
 img{
   width: 125px;
   height: 125px;
-  margin-right: 500px;
-  margin-bottom: 50px
 }
 
 span.importantes{
